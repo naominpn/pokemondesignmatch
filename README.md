@@ -1,2 +1,2 @@
 HTML markup time: 20 minutes
-CSS
+CSS time: 25minutes
