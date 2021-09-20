@@ -1,59 +1,56 @@
 body{
-    width: 80%;
+    width: 1500px;
     margin: auto;
+    position: relative;
 }
 
-header{
-    /* position: absolute; */
-    left: 0%;
-    right: 0%;
-    top: -83.03%;
-    bottom: 21.08%;
+.banner{
+    width: 100%;
+}
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 1500px solid transparent;
+    border-bottom: 182px solid #F5A623;
     z-index: -1;
-
-    background: #FFFFFF;
+    position: absolute;
+    left: 0%;
+    top: 6.5%;
 }
 
 header h1{
-    /* position: absolute; */
-    height: 246px;
-    left: 0.09%;
-    right: 39.29%;
-    top: calc(50% - 246px/2 + 53.89px);
-
     font-family: Sigmar One;
     font-style: normal;
     font-weight: normal;
     font-size: 150px;
     line-height: 246px;
-    /* text-align: center; */
-
     color: #F5A623;
-
+    position: relative;
+    left: 2px;
+    top: -17px;
     transform: rotate(-7deg);
 }
 
 section{
     background-color: #F5A623;
-    z-index: 1;
+    z-index: 2;
     margin-top: -100px;
 }
 
 .grid{
     display: flex;
     flex-wrap: wrap;
+    margin: 0 140px;
+    justify-content: center;
+    gap: 50px;
 }
 
-img{
-    width: 110px;
+.starters{
+    width: 600px;
+    margin: auto;
 }
 
 .starters-heading{
-    height: 79px;
-    left: 50.41%;
-    right: 0.49%;
-    top: calc(50% - 79px/2 - 40px);
-
     font-family: Sigmar One;
     font-style: normal;
     font-weight: normal;
@@ -61,52 +58,113 @@ img{
     line-height: 79px;
     /* identical to box height */
 
-    text-align: center;
+    text-align: right;
     letter-spacing: 0.15px;
 
     color: #FFFFFF;
+    margin: 0 0 -4% 0;
 }
 
 .starters-info{
-    left: 0%;
-    right: 0%;
-    top: 33.96%;
-    bottom: 0%;
-
+    margin: auto;
     background: #FFFFFF;
     border-radius: 24px 24px 100px 100px;
+    padding: 20px;
 }
 
 .starters-info h3{
-height: 21px;
-left: 3.26%;
-right: 77.49%;
-top: calc(50% - 21px/2 + 3px);
-
-font-family: Poppins;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 21px;
-/* identical to box height */
-
-letter-spacing: 0.04375px;
-
-color: #1F1E1D;
+    margin: 0;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    
+    color: #1F1E1D;
 }
 
 .starters-info p{
-    height: 43px;
-left: 7.34%;
-right: 8.48%;
-top: calc(50% - 43px/2 + 37px);
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    
+    margin: 1px 40px;
 
-font-family: Poppins;
-font-style: italic;
-font-weight: 300;
-font-size: 14px;
-line-height: 21px;
-letter-spacing: 0.04375px;
 
-color: #1F1E1D;
+    color: #1F1E1D;
+}
+
+.card{
+    max-width: 180px;
+}
+
+.id{
+    font-family: Sigmar One;
+    color: white;
+    text-align: center;
+}
+
+.about, .name {
+    font-family: Poppins;
+    text-align: center;
+    color: white;
+}
+
+
+.name{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+
+.about{
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0;
+}
+
+img{
+    width: 100px;
+    margin: 12%;
+}
+
+.img-container{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+
+    border: 10px dashed #1F1E1D;
+    border-radius: 100%;
+}
+
+.triangle-2{
+    width: 0;
+    height: 0;
+    border-left: 1500px solid transparent;
+    border-top: 182px solid #F5A623;
+    z-index: -1;
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+}
+
+footer h1{ 
+    font-family: Sigmar One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+    line-height: 246px;
+
+    position: relative;
+    left: 0%;
+    top: 8.5%;
+
+    text-align: right;
+
+    color: #FFFFFF;
+
+    transform: rotate(5deg);
 }
