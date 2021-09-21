@@ -11,11 +11,11 @@ body{
     width: 0;
     height: 0;
     border-left: 1500px solid transparent;
-    border-bottom: 182px solid #F5A623;
+    border-bottom: 180px solid #F5A623;
     z-index: -1;
     position: absolute;
     left: 0%;
-    top: 6.5%;
+    top: 4%
 }
 
 header h1{
@@ -43,6 +43,7 @@ section{
     margin: 0 140px;
     justify-content: center;
     gap: 50px;
+    padding: 50px;
 }
 
 .starters{
@@ -99,6 +100,19 @@ section{
     max-width: 180px;
 }
 
+.card:nth-child(2n){
+    margin-top: 50px;
+}
+
+.card:nth-child(2n+6){
+    margin-top: 0;
+}
+
+.card:nth-child(2n+7){
+    margin-top: 50px;
+}
+
+
 .id{
     font-family: Sigmar One;
     color: white;
@@ -128,7 +142,7 @@ section{
 
 img{
     width: 100px;
-    margin: 12%;
+    margin: 15%;
 }
 
 .img-container{
@@ -138,6 +152,7 @@ img{
 
     border: 10px dashed #1F1E1D;
     border-radius: 100%;
+    margin: auto;
 }
 
 .triangle-2{
@@ -168,3 +183,4 @@ footer h1{
 
     transform: rotate(5deg);
 }
+
