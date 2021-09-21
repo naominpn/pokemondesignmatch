@@ -28,7 +28,7 @@ Screenshot:
          </li>
     </ul>
 
-
+<br>
 <h3>Last Comments:</h3>
 <p> Currently not mobile responsive. Will update later this week. </p>
 <br>
