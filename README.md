@@ -1,6 +1,8 @@
 Link: https://naominpn.github.io/pokemondesignmatch/
 
-Screenshot: <img width="777" alt="Screen Shot 2021-09-21 at 12 44 53 pm" src="https://user-images.githubusercontent.com/83072963/134104015-3f181512-feb6-41e0-a705-57816cfb0c7f.png">
+Screenshot: 
+<br>
+<img width="777" alt="Screen Shot 2021-09-21 at 12 44 53 pm" src="https://user-images.githubusercontent.com/83072963/134104015-3f181512-feb6-41e0-a705-57816cfb0c7f.png">
 
 <hr>
 
