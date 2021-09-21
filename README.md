@@ -11,7 +11,7 @@ Total Run Time ~ 3 Hours
 <br><b>Problem:</b> I usually prefer to use all my measurements in percentage however this would moved the triangle when the window size changed. 
 
    - the dashed border around the image
-<br><b>Comment:</b> At first, I was confused and thought it was a border for my img-container class. However upon thinking about it a bit more, I found a solution to add a div with it's own class of as img-border. 
+<br><b>Comment:</b> At first, I was confused and thought it was a border for my img-container class. However upon thinking about it a bit more, I found a solution to add a div with it's own class of img-border. 
 
    - Unusual staircase layout of the cards
 <br><b>Comment:</b> Not really difficult just never used nth child before. I already new how to tackle this challenge; this took around 10 minutes to figure out. 
