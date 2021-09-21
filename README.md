@@ -18,4 +18,6 @@ Total Run Time ~ 3 Hours
 
 
 <b>Last Comments:</b>
+<br> Currently not mobile responsive. Will update later this week. 
+<br>
 <br> Thank you MPF for this fun challenge! I really enjoyed it. 
