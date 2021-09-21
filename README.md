@@ -13,6 +13,7 @@ Screenshot:
     <ul>
         <li> HTML markup time: 20 minutes </li>
         <li> CSS time: 170 minutes </li>
+        <li> ~ Optional ~ Mobile Responsive: 3 hours of messing around</li>
     </ul>
 
 
@@ -30,6 +31,7 @@ Screenshot:
 
 <br>
 <h3>Last Comments:</h3>
-<p> Currently not mobile responsive. Will update later this week. </p>
+<p> Now Responsive: breakpoints at 768px and 600px</p>
+<p> Taken out the triangles because it got too messy </p>
 <br>
 <p> Thank you MPF for this fun challenge! I really enjoyed it. </p>

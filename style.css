@@ -193,3 +193,78 @@ footer h1{
 .info{
     margin-top: 10%;
 }
+
+
+
+@media only screen and (max-width: 768px) {
+    body{
+        width: 100%;
+        margin: 0;
+    }
+
+    header h1{ 
+        font-size: 5em;
+        top: 4px;
+    }
+    .triangle{
+        border-left: 768px solid transparent;
+        border-bottom: 91px solid #F5A623;
+        top: 4.7%;
+    }
+
+    .starters{
+        width: 90%;
+    }
+
+    .grid{
+        margin: 0 3%;
+        gap: 1px;
+        padding: 7% 0;
+    }
+
+    .card:nth-child(2),
+    .card:nth-child(5),
+    .card:nth-child(8),
+    .card:nth-child(10){
+        margin-top: 50px;
+    }
+
+    .card:nth-child(4),
+    .card:nth-child(2n+7){
+        margin-top: 0px;
+    }
+
+    footer h1{
+        font-size: 6em;
+        left: -3%;
+        bottom: 190.5px;
+    }
+
+    .triangle-2{
+        bottom: 10.6%;
+        border-left: 768px solid transparent;
+        border-top: 64px solid #F5A623;
+    }
+}
+
+@media only screen and (max-width: 450px){
+    .body{
+        max-width: 100%;
+    }
+
+    .triangle, .triangle-2{
+        display: none;
+    }
+
+    header h1{
+        font-size: 15vw;
+    }   
+
+    section{
+        padding-bottom: 150px;
+    }
+    footer h1{
+        bottom: 251.5px;
+        font-size: 15vw;
+    }
+}
