@@ -32,6 +32,7 @@ Screenshot:
 <br>
 <h3>Last Comments:</h3>
 <p> Now Responsive: breakpoints at 768px and 600px</p>
-<p> Taken out the triangles because it got too messy </p>
+<p> Taken out the triangles at 600px because it got too messy </p>
+<p> I would probably approach it a different way instead of using css drawing. By adding a rectangle and rotating it around, use overflow rules </p>
 <br>
 <p> Thank you MPF for this fun challenge! I really enjoyed it. </p>
