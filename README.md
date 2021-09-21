@@ -5,10 +5,15 @@ Screenshot:
 <img width="777" alt="Screen Shot 2021-09-21 at 12 44 53 pm" src="https://user-images.githubusercontent.com/83072963/134104015-3f181512-feb6-41e0-a705-57816cfb0c7f.png">
 
 <hr>
+<h3>About</h3>
+<p>This a design match test using ONLY HTML and CSS. No CSS libraries, no React.js</p>
 
+<br>
 Total Run Time ~ 3 Hours
-    <br> HTML markup time: 20 minutes
-    <br> CSS time: 170 minutes;
+    <ul>
+        <li> HTML markup time: 20 minutes </li>
+        <li> CSS time: 170 minutes </li
+    </ul>
 
 
 <b>Challenges:</b> 
