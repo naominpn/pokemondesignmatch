@@ -9,26 +9,27 @@ Screenshot:
 <p>This a design match test using ONLY HTML and CSS. No CSS libraries, no React.js</p>
 
 <br>
-Total Run Time ~ 3 Hours
+<p>Total Run Time ~ 3 Hours</p>
     <ul>
         <li> HTML markup time: 20 minutes </li>
-        <li> CSS time: 170 minutes </li
+    <li> CSS time: 170 minutes </li>
     </ul>
 
 
-<b>Challenges:</b> 
-   - The triangle shapes on the top and bottom of the design.
-<br> <b>Solution:</b> CSS drawings and a bit of pixel pushing. 
-<br><b>Problem:</b> I usually prefer to use all my measurements in percentage however this would moved the triangle when the window size changed. 
+<h3>Challenges:</h3>
+    - The triangle shapes on the top and bottom of the design.
+            
+<p><b>Solution:</b> CSS drawings and a bit of pixel pushing. </p>
+<p><b>Problem:</b> I usually prefer to use all my measurements in percentage however this would moved the triangle when the window size changed. </p>
 
    - the dashed border around the image
-<br><b>Comment:</b> At first, I was confused and thought it was a border for my img-container class. However upon thinking about it a bit more, I found a solution to add a div with it's own class of img-border. 
+<p><b>Comment:</b> At first, I was confused and thought it was a border for my img-container class. However upon thinking about it a bit more, I found a solution to add a div with it's own class of img-border. </p>
 
    - Unusual staircase layout of the cards
-<br><b>Comment:</b> Not really difficult just never used nth child before. I already new how to tackle this challenge; this took around 10 minutes to figure out. 
+<p><b>Comment:</b> Not really difficult just never used nth child before. I already new how to tackle this challenge; this took around 10 minutes to figure out. </p>
 
 
-<b>Last Comments:</b>
-<br> Currently not mobile responsive. Will update later this week. 
+<h3>Last Comments:</h3>
+<p> Currently not mobile responsive. Will update later this week. </p>
 <br>
-<br> Thank you MPF for this fun challenge! I really enjoyed it. 
+<p> Thank you MPF for this fun challenge! I really enjoyed it. </p>
