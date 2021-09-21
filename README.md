@@ -17,16 +17,20 @@ Screenshot:
 
 
 <h3>Challenges:</h3>
-    - The triangle shapes on the top and bottom of the design.
-            
-<p><b>Solution:</b> CSS drawings and a bit of pixel pushing. </p>
-<p><b>Problem:</b> I usually prefer to use all my measurements in percentage however this would moved the triangle when the window size changed. </p>
+    <ul>
+        <li> The triangle shapes on the top and bottom of the design
+              <p><b>Solution:</b> CSS drawings and a bit of pixel pushing </p>
+              <p><b>Problem:</b> I usually prefer to use all my measurements in percentage however this would moved the triangle when the window size changed. </p>
+         </li>
 
-   - the dashed border around the image
-<p><b>Comment:</b> At first, I was confused and thought it was a border for my img-container class. However upon thinking about it a bit more, I found a solution to add a div with it's own class of img-border. </p>
+        <li> the dashed border around the image
+            <p><b>Comment:</b> At first, I was confused and thought it was a border for my img-container class. However upon thinking about it a bit more, I found a solution to add a div with it's own class of img-border. </p>
+        </li>
 
-   - Unusual staircase layout of the cards
-<p><b>Comment:</b> Not really difficult just never used nth child before. I already new how to tackle this challenge; this took around 10 minutes to figure out. </p>
+        <li> Unusual staircase layout of the cards
+            <p><b>Comment:</b> Not really difficult just never used nth child before. I already new how to tackle this challenge; this took around 10 minutes to figure out. </p>
+         </li>
+    </ul>
 
 
 <h3>Last Comments:</h3>
