@@ -1,8 +1,8 @@
-Link: 
+Link: https://naominpn.github.io/pokemondesignmatch/
 
 Total Run Time ~ 3 Hours
-    HTML markup time: 20 minutes
-    CSS time: 170 minutes;
+    <br> HTML markup time: 20 minutes
+    <br> CSS time: 170 minutes;
 
 
 Challenges: 
