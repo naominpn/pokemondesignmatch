@@ -34,5 +34,6 @@ Screenshot:
 <p> Now Responsive: breakpoints at 768px and 600px</p>
 <p> Taken out the triangles at 600px because it got too messy </p>
 <p> In the future, I would probably approach it a different way instead of using css drawing. By adding a rectangle and rotating it around, use overflow rules </p>
+<p> UPDATE 22/09/201 7:14PM : I have come to the conclusion that css drawing was a terrible idea, however it is what it is. </p>
 <br>
 <p> Thank you MPF for this fun challenge! I really enjoyed it. </p>
